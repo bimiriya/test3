@@ -5,10 +5,6 @@ $(document).ready(() => {
         getMovies(searchedMovie)
     })
 
-    $("#searchChar").click(() => {
-        //var searchedChar = $("#charInput").val()
-        getChar()
-    })
 })
 
 /*function getMovies(search) {
